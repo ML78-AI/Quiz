@@ -1,7 +1,7 @@
 # Quiz
 Mini quiz
 
-Code HTML, CSS et JavaScript repris de la vidéo suivante: https://www.youtube.com/watch?v=_up9_k432lI
+Code HTML, CSS et JavaScript repris de la vidéo suivante: https://www.youtube.com/watch?v=_up9_k432lI <br />
 Ajout de quelques fonctionnalités: <br />
 	1) Bouton suivant <br />
 	2) Affiche la bonne réponse en vert et la mauvaise réponse en rouge en fonction du choix de l'utilisateur <br />
